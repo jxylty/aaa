@@ -1,0 +1,103 @@
+.main{
+	width: 1200px; margin: 0 auto;
+}
+.head{
+	height: 98px; border-bottom: 2px solid #c33;
+}
+.head-left img{
+	float: left; margin: 12px 0 13px; 
+}
+.head-right ul {
+	float: right; margin-top: 40px; line-height: 30px;
+}
+.head-right ul li{
+	float: left; padding: 0 8px; color: #999;
+}
+.head-right ul li a{
+	color: #999;
+}
+/*#item a:hover{
+	display: block;
+}
+.item-1{
+	display: none;
+	width: 60px; height: 60px;
+	border: 1px solid #C0C0C0;
+	
+}
+.item-2{
+	display: none;
+	width: 60px; height: 60px;
+	
+}*/
+
+
+.nav {
+	width: 900px; height: 450px; margin: 50px auto 0; 
+}
+.nav .input_div{
+	float: right; 
+}
+.nav .gary_f1{
+	width: 360px; height: 21px;
+}
+.nav .gary_f1 b{
+	font-size: 14px; color: #666; width: 98px; height: 19px; float: left; font-weight: 600;
+}
+.nav .line{
+	border-left: 1px solid #ccc; width: 1px;margin: 4px 4px 0;
+	height: 13px; float: left; vertical-align: middle;
+}
+.nav .gary_f1 a{
+	font-size: 14px; color: #666;
+}
+.gary_f2{
+	width: 362px; height: 310px; padding-top: 4px; border: 4px solid #ccc;
+}
+.gary_f3{
+	width: 300px; height: 28px; font-size: 14px; padding: 25px 0 0 9px;
+}
+.gary_f3 input{
+	width: 198px; height: 24px;
+}
+.gary_f4{
+	width: 300px; height: 28px; font-size: 14px; padding: 15px 0 0 43px;
+}
+.gary_f4 input{
+	width: 198px; height: 24px;
+}
+.gary_f5{
+	width: 300px; height: 28px; font-size: 14px; padding: 15px 0 0 29px;
+}
+.gary_f5 input{
+	width: 54px; height: 24px;
+}
+.gary_f6{
+	width: 300px; height: 28px; padding: 15px 0 0 29px;
+	
+}
+.gary_f6 li{
+	width: 130px; height: 18px; padding-left:53px ; 
+}
+.gary_f7 ul{
+	width: 300px; height: 28px; line-height: 28px; margin-bottom: 20px;
+}
+.gary_f7 ul li{
+	float: left; text-align: center; 
+} 
+.gary_f7_1 {
+	width: 67px; height: 30px; background:#f04e00; 
+	line-height: 30px; margin: 0 24px 0 82px;
+}
+.gary_f8 {
+	width: 300px; height: 28px; margin: 0 auto;
+}
+.gary_f8 li{
+	float: left; 
+}
+.copywrite{
+	text-align: center; color: #666; line-height: 18px;
+}
+a:hover{
+	color: #C33;
+}

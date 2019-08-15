@@ -1,0 +1,40 @@
+.main{
+	width: 1200px;  margin: 0 auto; 
+}
+.head{
+	height: 30px; background: #f8f8f8;
+}
+.head .topnar-left{
+	float: left; line-height: 30px;
+}
+.head .topnar-left span{
+	padding-left: 38px;padding-right: 540px;
+}
+.head .topnar-right li{
+	float: left; line-height: 30px; padding-right: 23px;
+}
+.nav img{
+	padding-top: 33px;
+}
+.nav .logo{
+	float: left;
+}
+.nav .group {
+	float: left; padding: 53px 0 0 64px;
+}
+.nav .group .iconfont{
+	 color: #fff; font-size:26px ; margin-left: 8px; line-height:36px ;
+}
+.nav .wxapp{
+	float: right; padding: 20px 40px 0 0;
+}
+
+.nav .nav-bottom {
+	font-size: 20px; height: 48px; line-height: 48px; padding-left:351px;
+}
+.nav .nav-bottom a{
+	padding-right: 76px;  font-weight: 600;
+}
+.huaru ul li{
+			float: left; padding-top: 9px;
+}

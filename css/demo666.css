@@ -1,0 +1,117 @@
+.nav-a1{
+	height: 57px; margin-top: 30px;
+}
+.logo-a1{
+	float: left;
+}
+.logo-a2{
+	float: left; margin-top: 20px; margin-left: 30px; font-size: 20px; color: #383838;
+}
+.logo-a3{
+	float: right;
+}
+.logo-a3 li{
+	float: left; width: 146px; height: 36px; font-size: 16px; background-color: #c33;
+	padding-left: 52px; line-height: 36px;
+}
+.logo-a3 li em{
+	background-color: #fff; width: 20px; height: 20px; display: inline-block;  line-height: 20px; 
+    color: #e5002d; border-radius: 100%; text-align: center; background: #fff;
+}
+.total-bar{
+	height: 30px; color:#c33 ;  padding-top:33px;     font-size: 18px;
+	font-weight: 600; border-bottom: 1px solid #dedede;
+}
+.tips{
+	color: #9b9b9b; margin-top: 10px;
+}
+.table-title{
+	border: 1px solid #dedede;height: 40px;line-height: 40px; padding: 0 10px;
+    margin-top: 10px; width: 1178px;
+}
+.table-title span{
+	float: left; color: #646464; line-height: 40px;
+}
+.check-all {
+	width: 120px;
+}
+.product-info{
+	width: 557px;
+}
+.price{
+	width: 130px; 
+}
+.count{
+	width: 100px; padding-right: 40px;
+}
+.sum{
+	width: 100px;
+}
+.operate{
+	width: 24px;
+}
+.product-bd{
+	height: 115px;  border: 1px solid #dedede;
+    margin-top: 10px;width: 1198px; position: relative;
+}
+.product-a1{
+	    float: left;margin: 10px ;width: 13px;
+}
+.product-a2{
+	width: 655px; height: 92px; padding: 10px;
+}
+.pi-type{
+	width: 53px; height: 17px; border: 1px solid #c33; 
+	color:#c33 ; border-radius: 3px
+}
+.pi-name{
+	float: left; width: 255px; height: 36px; margin-left: 20px;
+}
+.pi-attribute{
+	float: left; margin-left: 70px;
+}
+.current-price{
+	    float: left;width: 110px;line-height: 18px;margin-top: 10px; margin-left: 43px;
+}
+.count{
+	float: left;
+}
+.count li{
+	float: left; margin-top: 10px; margin-right: 5px;
+}
+.count-a1{
+	width:42px ; height: 22px; border: 1px solid #DEE1FF; text-align: center; line-height: 22px;
+}
+.delete{
+	float: left; margin-top: 10px; margin-left: 60px;
+}
+.account-wrap{
+	    
+}
+.account-wrap{
+	    height: 50px;
+    line-height: 50px;
+    border: 1px solid #dedede;
+    padding-left: 10px;
+}
+.check-all{
+	padding-right: 30px;
+}
+.aw-l {
+	float: left;
+}
+.aw-r{
+	float: right;
+}
+.num{
+	color: #c33;font-size: 14px;
+}
+.nuit{
+	    color: #c33;font-size: 20px;
+}
+.account-btn {height: 60px;width: 120px;text-align: center;
+    font-size: 20px;
+    color: #fff;
+    background-color: #c33;
+  
+}

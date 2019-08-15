@@ -1,0 +1,365 @@
+a,abbr,acronym,address,applet,article,aside,bb,big,blockquote,body,caption,cite,code,datagrid,datalist,dd,del,details,dfn,dialog,div,dl,dt,em,eventsource,fieldset,figure,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,input,ins,kbd,label,legend,li,mark,menu,meter,nav,object,ol,output,p,pre,progress,q,s,samp,section,select,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,ul,var {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    background-color: #fff;
+    font: normal 12px/1.5 Microsoft yahei,Arial;
+    color: #666;
+    text-align: center;
+    word-wrap: break-word;
+    word-break: break-all
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td,th {
+    padding: 0
+}
+
+table caption {
+    display: none
+}
+
+ol,ul {
+    list-style: none outside
+}
+
+a {
+    color: #666
+}
+
+a,a:hover {
+    text-decoration: none
+}
+
+a:hover {
+    color: #c33
+}
+
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
+    font-family: inherit;
+    font-weight: 500;
+    color: inherit;
+    font-size: 100%
+}
+
+.h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 small,h5 .small,h5 small,h6 .small,h6 small {
+    font-weight: 400;
+    line-height: 1;
+    color: #999
+}
+
+.small,small {
+    font-size: 85%
+}
+
+fieldset,img {
+    border: 0 none
+}
+
+img {
+    vertical-align: middle
+}
+
+q:after,q:before {
+    content: ""
+}
+
+button {
+    padding: 0;
+    cursor: pointer;
+    vertical-align: middle
+}
+
+b,cite,em,i {
+    font-style: normal
+}
+
+footer {
+    display: block
+}
+
+.footer {
+    background-color: #fff
+}
+
+.bottom_list {
+    width: 880px;
+    margin: 10px auto 15px;
+    text-align: left;
+    overflow: hidden
+}
+
+.bottom_list .dl {
+    float: left;
+    width: 190px;
+    font-size: 12px
+}
+
+.bottom_list a {
+    color: #999
+}
+
+.bottom_list a:hover {
+    color: #1f7dd8
+}
+
+.bottom_list .last {
+    width: auto
+}
+
+.bottom_list .last .img {
+    width: 90px;
+    height: 90px
+}
+
+.bottom_list .weixin {
+    display: inline-block;
+    width: 90px;
+    height: 113px;
+    background: url(../img/img/weixin2d-new.png) no-repeat
+}
+
+.bottom_list .weibobox {
+    display: block;
+    width: 90px;
+    height: 30px;
+    background: url(../img/img/24d726f946ca4d643971967043bc56bf.jpg) no-repeat
+}
+.ico-weibo-png {
+    background-position: -26px -131px;
+    width: 22px;
+    height: 20px;
+}
+
+.bottom_list .dt {
+    font: 700 14px/26px Microsoft yahei
+}
+
+.bottom_list li {
+    padding: 3px 0
+}
+
+.matou-intro {
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd
+}
+
+.matou-intro a {
+    font: 700 12px/1.5 Microsoft yahei;
+    display: inline-block;
+    border-right: 1px solid #ddd;
+    padding: 0 10px;
+    color: #868686
+}
+
+.matou-intro a:hover {
+    color: #1f7dd8
+}
+
+.matou-intro .last {
+    border-right: 0
+}
+
+.matou-link {
+    margin: 0 auto;
+    width: 1100px;
+    overflow: hidden;
+    padding: 10px 0;
+    text-align: center
+}
+
+.matou-link a {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 8px;
+    color: #bbb;
+    border-right: 1px solid #ccc;
+    margin: 5px 0;
+    height: 18px;
+    line-height: 18px
+}
+
+.matou-link a:hover {
+    color: #1f7dd8
+}
+
+.matou-link a.bo {
+    border-right: 0
+}
+
+.matou-server {
+    background: #cc3333;
+    height: 72px;
+    text-align: center;
+    padding: 20px 0
+}
+
+.matou-server .item {
+    display: inline-block;
+    margin: 0 50px;
+    display: inline
+}
+
+.matou-server .item a,.matou-server .png {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.matou-server .item a {
+    color: #fff;
+    font: 700 14px/30px Microsoft yahei
+}
+
+.icon-baozhang {
+    background-position: 0 0
+}
+
+.icon-huhang {
+    background-position: 0 -46px
+}
+
+.icon-renzheng {
+    background-position: 0 -93px
+}
+
+.icon-bianjie {
+    background-position: 0 -139px
+}
+
+.weibobox {
+    border: 1px solid #ddd;
+    display: block;
+    padding: 3px 1px 3px 5px;
+    margin-top: 5px;
+    text-decoration: none
+}
+
+.weibobox a {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 2px
+}
+
+.friendLinks {
+    width: 760px;
+    margin: 10px auto;
+    clear: both;
+    height: 50px;
+    text-align: center;
+    font-size: 0;
+    letter-spacing: -4px
+}
+
+.friendLinks .linkitem {
+    display: inline-block;
+    vertical-align: middle;
+    background-image: url(../img/img/08f215631bb50c5af9ab0f8b8ab3ae29.png);
+    background-repeat: no-repeat;
+    margin-right: 5px
+}
+
+.friendLinks .icon-kexin {
+    width: 128px;
+    height: 50px;
+    background-position: -5px -2px;
+    margin-right: 3px
+}
+
+.friendLinks .icon-chengxin {
+    width: 156px;
+    height: 50px;
+    background-position: -136px -2px
+}
+
+.friendLinks .icon-zhifubao {
+    width: 102px;
+    height: 50px;
+    background-position: -296px -2px
+}
+
+.friendLinks .icon-wangjing {
+    width: 153px;
+    height: 50px;
+    background-position: -404px -2px
+}
+
+.friendLinks .icon-gongshang {
+    width: 47px;
+    height: 47px;
+    background-position: -562px -2px
+}
+
+.friendLinks .icon-gongshang3 {
+    width: 204px;
+    height: 50px;
+    background-image: url(../img/img/65ba48ba771986a48f24551e01a37be3.png)
+}
+
+.copywrite {
+    text-align: center;
+    color: #666
+}
+
+#copywrite {
+    width: 100%;
+    overflow: hidden
+}
+
+div.friendLinks2 a.beian-banner:hover .beian-txt {
+    color: #c33
+}
+
+div.friendLinks2 .beian-banner {
+    float: left;
+    margin-top: 25px
+}
+
+div.friendLinks2 .beian-banner .beian {
+    background: url(../img/img/d0289dc0a46fc5b15b3363ffa78cf6c7.png);
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    display: block;
+    float: left
+}
+
+div.friendLinks2 .beian-banner .beian-txt {
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    margin: 0 0 0 5px;
+    color: #666
+}
+div.friendLinks2 {
+    margin: 0 auto;
+    width: 740px;
+    height: 100px;
+    overflow: hidden
+}
+
+div.friendLinks2 .link-item {
+    float: left;
+    margin-top: 25px
+}
+
+div.friendLinks2 .jbzxIcon {
+    height: 20px;
+    width: 20px;
+    background: url(../img/img/bd90f4ad7fb3338bcf3084580325356d.png) no-repeat;
+    background-size: 20px 20px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+div.friendLinks2 .split {
+    float: left;
+    margin: 25px 7px 0
+}

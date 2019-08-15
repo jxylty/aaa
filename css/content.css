@@ -1,0 +1,246 @@
+.todaybuy-nav{
+				width: 1361px;
+				height: 66px;
+				background-color: #383838;
+				/*position:fixed;
+				left:0;
+				top:0;
+				z-index: 10;*/
+			}
+			
+			.todaybuy-nav-inner{
+				margin: 0 auto;
+				display: table;
+    			min-width: 1200px;
+    			height: 66px;
+    			background-color: #383838;
+			}
+			.todaybuy-nav-inner li {
+				color: #9b9b9b;
+				float: left;
+				width: 400px;
+				text-align: center;
+				line-height: 24px;
+				font-size: 14px;
+				border-bottom: 4px solid #383838;
+				height: 56px;
+				margin-top: 6px;
+			}
+			
+			.todaybuy-nav-inner li:hover{
+				color: white;
+				border-bottom: 4px solid #2dba6c;
+				font-size: 16px;
+			}
+			.todaybuy-content {
+				width: 1200px;
+				/*height: 3005px;*/
+				margin: 67px auto;
+				overflow: hidden;
+				display: none;
+			}
+			.banner{
+				width: 1200px;
+				height: 561px;
+				margin-top: 40px;
+			}
+			.banner-hd{
+				height: 45px;
+				position: relative;
+				z-index: 1;
+			}
+			.banner-bd{
+				
+				height: 516px;
+			}
+			.date {
+			    left: -9px;
+			    top: 0;
+			    width: 98px;
+			    padding: 0 10px 0 20px;
+			    height: 79px;
+			    text-align: center;
+			    background:url(../img/2572acccf6de505a80563ea12e659154.png);
+			    position: absolute;
+			    color: white;
+			}
+			.day {
+			    font-size: 24px;
+			    line-height: 29px;
+			    letter-spacing: 1px;
+			    margin-top: 10px;
+			}
+			.week{
+				font-size: 16px;
+				letter-spacing: .5px;
+			}
+			.tittle{
+				background-color: #f1f1f1;
+			    font-size: 24px;
+			    color: #383838;
+			    letter-spacing: .9px;
+			    position: relative;
+			    display: inline-block;
+			    padding: 0 20px;
+			    height: 45px;
+			    line-height: 45px;
+			    margin-left: 119px;
+			    max-width: 700px;
+			    overflow: hidden;
+			    text-overflow: ellipsis;
+			    white-space: nowrap;
+			}
+			/*.tittle a{
+				width: 740px;
+				height: 45px;
+				display: block;
+				float:right;
+				font-size: 24px;
+				line-height: 45px;
+				padding-right:332px ;
+				background-color: #f1f1f1;
+			}*/
+			.banner-bd {
+				position: relative;
+				height: 516px;
+			}
+			.banner-img {
+			    width: 1200px;
+			    height: 303px;
+			    overflow: hidden;
+			    position: relative;
+			    background: url(../img/2c3e660a188e0852c1cd2101501535d1.png) no-repeat 50% 0;
+			}
+			.buy-product {
+			    width: 800px;
+			    height: 374px;
+			    padding: 43px 60px 43px 68px;
+			    background: url(../img/3b61e50b9bc8025f1d89caade5e98014.png) no-repeat;
+			    margin: 0 auto;
+			    position: absolute;
+			    top: 56px;
+			    left: 136px;
+			}
+			/*.banner-img .blur {
+			    background: url(../img/3b61e50b9bc8025f1d89caade5e98014.png) no-repeat;
+			    position: absolute;
+			    left: 0;
+			    top: 0;
+			    width: 100%;
+			    height: 100%;
+			}*/
+			/*.first{
+				position: absolute;
+				z-index: -1;
+			}*/
+			/*.second{
+				position:absolute;
+				left: 215px;
+				top: 209px;
+			}*/
+			.shangping{
+				overflow: hidden;
+			    background-color: #fff;
+			    box-shadow: 0 0 8px rgba(0,0,0,.4);
+			}
+			.shangpingimg{
+				width: 320px;
+			    height: 320px;
+			    float: left;
+			    text-align: center;
+			    line-height: 320px;
+			    overflow: hidden;
+			    position: relative;
+			}
+			.shangpingimg img{
+				width: 320px;
+				height: 320px;
+				vertical-align: middle;
+			}
+			.shangpinginfo{
+				width: 480px;
+				height: 320px;
+				background-color:white;
+				float: left;
+			}
+			.country{
+				width: 440px;
+				height: 36px;
+				margin-top: 10px;
+			}
+			.country img{
+				width: 36px;
+				height: 36px;
+			}
+			.country span{
+				margin-left:45px ;
+				font-size: 24px;
+				line-height: 36px;
+			}
+			.shangpingtittle{
+				width: 440px;
+				height: 84px;
+				font-size: 26px;
+			}
+			.shangpingtittle a:hover{
+				color: #cc3333;
+			}
+			.shangpingprice{
+				font-size: 20px;
+			}
+			.shangpingprice span{
+				text-decoration:  line-through;
+			}
+			.nowprice{
+				font-size: 24px;
+				color:#cc3333 ;
+			}
+			.nowprice em{
+				font-size: 46px;
+			}
+			.buynow{
+				width: 440px;
+				height: 54px;
+			}
+			.buynow a{
+				font-size: 32px;
+				color: white;
+				line-height: 54px;
+				width: 232px;
+				height: 54px;
+				background-color:#cc3333 ;
+				display: block;
+				text-align: center;
+			}
+			.shangpingtime{
+				text-align: center;
+			    position: relative;
+			    margin-top: 15px;
+			}
+			.shangpingtime h1{
+				color: #646464;
+			}
+			.buynowbanner{
+				width: 1361px;
+				height: 120px;
+				background-color:#fe2e3c ;
+			}
+			.buynowbanner img{
+				width: 1200px;
+				height: 120px;
+				margin-left: 75px;
+			}
+			.makemore{
+				width: 100%;
+				height: 40px;
+			}
+			#makemoreclick{
+				width: 100%;
+				height: 35px;
+				background-color: ghostwhite;
+				color: black;
+				font-size: 18px;
+				line-height: 35px;
+				text-align: center;
+				margin: 0 auto;
+			}
